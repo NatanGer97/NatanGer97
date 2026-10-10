@@ -11,7 +11,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,python,cs,nodejs,express,docker,react,fastapi,mysql,mongodb,redis,aws,postgresql,cassandra,c,cpp" />
   </a>
-</p>
+<!-- </p>
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NatanGer97&show_icons=true" />
@@ -21,6 +21,6 @@
 <!-- <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanGer97&langs_count=10" />
 </a> -->
-  </div>
+  </div> -->
 
 
