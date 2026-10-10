@@ -21,6 +21,7 @@
 <!-- <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanGer97&langs_count=10" />
 </a> -->
-  </div> -->
+  </div> 
+  -->
 
 
